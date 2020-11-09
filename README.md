@@ -14,5 +14,5 @@ Para visualizar o projeto basta seguir os seguintes passos
 
 
 
-Meus agradecimentos à Digital Innovation One e ao especialista em Angular Weslhey Holanda por tornar meu aprendizado possível
+Meus agradecimentos à Digital Innovation One e ao desenvolvedor Angular Weslhey Holanda por tornar meu aprendizado possível
 
