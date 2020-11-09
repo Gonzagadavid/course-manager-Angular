@@ -6,7 +6,7 @@ Para visualizar o projeto basta seguir os seguintes passos
 
 1- abrir a seguinte pagina pelo node prompt: Angular-introducao/course-manager/ serve/course-manager-serve, e digitar o comando "node serve.js" e esperar a mensagem: Server Started!;
 
-2- abrir a seguinte pasta pelo terminal do editor de texto: Angular-introducao/course-manager, e digitar o s comando "ng serve" esperar  a mensagem: Compiled successfully;
+2- abrir a seguinte pasta pelo terminal do editor de texto: /Angular-introducao, e digitar o seguinte comando "npm install", esperar a instalação dos packs necessários, depois digite:"npm start" e esperar  a mensagem: Compiled successfully;
 
 3- abrir o navegador em http://localhost:4200/ para visualizar o projeto;
 
